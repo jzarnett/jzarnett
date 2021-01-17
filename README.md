@@ -2,10 +2,10 @@
 
 Introducing myself is hard. I never know what to say. It's hard for me to talk about myself without feeling like I'm bragging. Or, for less technically-inclined people, boring you with the story of the time I redirected the warp plasma flow to the main deflector dish to generate a subspace shockwave to defeat the Klingons. 
 
-## What do I do?
+### What do I do?
 If I have to give myself a concise summary of my core skills: I tell computers what to do, and teach other people how to get better at doing that.
 
-## Sprechen Sie Deutsch? Parlez-vous français? Snakker du Dansk?
+### Sprechen Sie Deutsch? Parlez-vous français? Snakker du Dansk?
 I speak English and German well. My French is rusty but not terrible. I'm working on Danish. 
 
 <!--
