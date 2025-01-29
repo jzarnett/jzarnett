@@ -6,7 +6,7 @@ Introducing myself is hard. I never know what to say. It's hard for me to talk a
 If I have to give myself a concise summary of my core skills: I tell computers what to do, and teach other people how to get better at doing that.
 
 ### Sprechen Sie Deutsch? Parlez-vous français? Snakker du Dansk? Fala Português?
-I speak English and German well. My French is rusty but not terrible. I working on Danish for a bit, but now it's Portguese. 
+I speak English and German well. My French is rusty but not terrible. I was working on Danish for a bit, but now it's Portguese. 
 
 <!--
 **jzarnett/jzarnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
